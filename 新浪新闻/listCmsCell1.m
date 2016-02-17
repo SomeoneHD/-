@@ -1,0 +1,13 @@
+//
+//  listCmsCell1.m
+//  新浪新闻
+//
+//  Created by qianfeng on 14-9-11.
+//  Copyright (c) 2014年 申冠华. All rights reserved.
+//
+
+#import "listCmsCell1.h"
+
+@implementation listCmsCell1
+
+@end
